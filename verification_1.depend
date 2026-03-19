@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773908845 source:d:\prog_algo_c\verification_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
